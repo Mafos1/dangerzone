@@ -1,4 +1,5 @@
 danger
 4 zone
-18 nouveau peuir
+18 nouveau peur
 mort
+vive
